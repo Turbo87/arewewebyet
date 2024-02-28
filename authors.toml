@@ -1,3 +1,13 @@
+[giraffate]
+  name = "Takayuki Nakata"
+  curator = true
+  github = "giraffate"
+
+[ibraheemdev]
+  name = "Ibraheem Ahmed"
+  curator = true
+  github = "ibraheemdev"
+
 [ben]
   name = "Benjamin Kampmann"
   curator = true
