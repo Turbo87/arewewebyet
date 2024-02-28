@@ -1,11 +1,10 @@
 [ben]
   name = "Benjamin Kampmann"
   curator = true
-  img = "http://www.create-build-execute.com/assets/images/ben.png"
+  img = "http://gnunicorn.org/assets/images/ben.png"
   bio = "Freelance OpenSource Software Architect and Developer. I design, build and supervise the building of software (systems). Sometimes for clients, often times on my own, whenever possible as OpenSource. I care about good design in both, the User Experience and backend architecture and infrastructure. And I write about all this stuff."
-  twitter = "SirDonQui"
-  github = "ligthyear"
-  homepage = "http://www.create-build-execute.com"
+  github = "gnunicorn"
+  homepage = "http://gnunicorn.org/"
 
 [manishearth]
   name = "Manish Goregaokar"
