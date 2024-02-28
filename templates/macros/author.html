@@ -2,6 +2,8 @@
 <div class="author" id="{{key}}">
   {% if author.img %}
     <img class="avatar" src="{{author.img}}" />
+  {% elif author.github %}
+    <img class="avatar" src="https://www.github.com/{{author.github}}.png" />
   {% else %}
     <img class="avatar" src="{{get_url(path='/asset/bashy-big.svg')}}" />
   {% endif %}
